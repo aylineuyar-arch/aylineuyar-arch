@@ -15,9 +15,9 @@ One chat, six specialized agents. A router picks the agent; an LLM-as-judge scor
 |-------|------|----------------|
 | Job search | [`aylinos`](https://github.com/aylineuyar-arch/aylinos) · [`agentic-ai-email-generator`](https://github.com/aylineuyar-arch/agentic-ai-email-generator) | 286 roles/run across 130+ ATS; 8x application throughput; +43% interview rate |
 | Outreach / daily digest | [`agentic-ai-email-generator`](https://github.com/aylineuyar-arch/agentic-ai-email-generator) | Ranked shortlist emailed 8am ET; 2x reply rate behind a human-approval gate |
-| Policy desk | [`compliance-rag-demo`](https://github.com/aylineuyar-arch/compliance-rag-demo) | Grounded policy Q&A with inline citations; zero embedding cost |
+| Policy desk | [`compliance-rag-chatbot`](https://github.com/aylineuyar-arch/compliance-rag-chatbot) | Grounded policy Q&A with inline citations; zero embedding cost |
 | Pricing & GTM | [`gtm-pricing-tool`](https://github.com/aylineuyar-arch/gtm-pricing-tool) | 8 industries, 25+ benchmarks, 4 buyer personas |
-| Inbox & reservations | [`restaurant-agent`](https://github.com/aylineuyar-arch/restaurant-agent) | Fork Yea! — NL → ranked pick → booking; LangGraph + LLM-as-judge |
+| Inbox & reservations | [`fork-yea`](https://github.com/aylineuyar-arch/fork-yea) | Fork Yea! — NL → ranked pick → booking; LangGraph + LLM-as-judge |
 | Research | [`aylinos`](https://github.com/aylineuyar-arch/aylinos) | Tavily-backed company research briefs, cached and reused by scoring + interview prep |
 
 Also live on the portfolio: **Customer Service Triage Agent** ([`ai-cs-triage`](https://github.com/aylineuyar-arch/ai-cs-triage)) — a standalone project, not one of the 6 AylinOS agents above.
