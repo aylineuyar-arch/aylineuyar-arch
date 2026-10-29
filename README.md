@@ -1,6 +1,6 @@
 # Aylin Uyar
 
-**Tuck MBA · AI deployment & ops · ex-Deloitte Tech Strategy · Skild AI**
+**Tuck MBA · AI deployment & ops · ex-Deloitte Tech Strategy · RowndAI · Skild AI**
 
 Electrical engineer building AI systems people actually adopt — workflow redesign, evaluation, and measurable outcomes.
 
