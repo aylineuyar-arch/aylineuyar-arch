@@ -4,7 +4,7 @@
 
 Electrical engineer building AI systems people actually adopt — workflow redesign, evaluation, and measurable outcomes.
 
-**Start here (live demos):** [aylin-uyar-portfolio.lovable.app](https://aylin-uyar-portfolio.lovable.app)
+**Start here (live demos):** [aylinuyar.com](https://aylinuyar.com)
 **LinkedIn:** [linkedin.com/in/aylinuyar](https://www.linkedin.com/in/aylinuyar/)
 
 ## AylinOS
